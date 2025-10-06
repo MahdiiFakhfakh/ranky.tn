@@ -19,4 +19,4 @@ This version represents the initial setup of the development environment using R
 To run this project locally:
 
 1. Clone the repository:
-   git clone https://github.com/MahdiiFakhfakh/ranky.tn.git
+   git clone https://github.com/MahdiiFakhfakh/ranky.tn
